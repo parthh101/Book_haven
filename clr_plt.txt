@@ -1,0 +1,7 @@
+Color palette for - "Book Haven"
+
+Deep Indigo (#2E3152) – A sophisticated, dreamy base color, representing wisdom and mystery.
+Soft Gold (#E8C872) – Adds warmth and a gentle glow, enhancing the cozy ambiance.
+Warm Terracotta (#D48B6A) – Brings in an earthy, welcoming touch, balancing modernity with comfort.
+Muted Lavender (#B3A1C8) – A soft, elegant contrast that adds a subtle magical feel.
+Pale Cream (#F6E8D5) – Keeps the palette light, airy, and easy on the eyes.
