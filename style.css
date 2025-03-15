@@ -45,3 +45,18 @@
 .header__navbar_item:hover a {
     color: #007bff;
 }
+
+.wr {
+   
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: inline-block;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+}
